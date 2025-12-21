@@ -1,3 +1,7 @@
+This repo is a fork of the official DayZ Expansion Modpack repo that will be used to creatoe a LLM chat interface leaveraging NotebookLM that is meant to help me up quickly edit / mod my server. You can access the notebook here: https://notebooklm.google.com/notebook/5c8a634b-356c-4405-a90d-99cf89b054b4
+
+
+Original Expansion Wiki:
 Download link:
 https://github.com/ExpansionModTeam/DayZ-Expansion-Missions/archive/refs/heads/master.zip
 
